@@ -5,3 +5,4 @@
 現在はGitHubに連携した機能をGitHubDeskTop, VSCode, GitBashを用いてテスト中です。
 
 vscodeで変更した点をGitHubDeskTopでプッシュできるかテスト
+->どうやらしっかりと連携しているらしい。
